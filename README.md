@@ -1,6 +1,7 @@
 # Smart-Disease-Predictor
 Predict diseases from patient symptoms using machine learning for accurate and quick diagnosis.
 <hr>
+<h2>This Project is under construction</h2>
 
 <h2>Table of Contents</h2>
 <ul>
