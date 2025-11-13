@@ -11,8 +11,7 @@ Predict diseases from patient symptoms using machine learning for accurate and q
   <li><a href="#usage">Usage</a></li>
   <li><a href="#dataset">Dataset</a></li>
   <li><a href="#model-evaluation">Model & Evaluation</a></li>
-  <li><a href="#contributing">Contributing</a></li>
-  <li><a href="#license">License</a></li>
+
 </ul>
 
 <hr>
