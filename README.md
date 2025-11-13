@@ -58,7 +58,7 @@ pip install -r requirements.txt
 </ol>
 
 <h2 id="dataset">Dataset</h2>
-<p>Describe dataset briefly here. Include source or link if public.</p>
+<p>Download dataset 'improved_disease_dataset.csv' from above.</p>
 
 <h2 id="model-evaluation">Model & Evaluation</h2>
 <ul>
@@ -67,8 +67,4 @@ pip install -r requirements.txt
   <li>Confusion Matrix for detailed analysis</li>
 </ul>
 
-<h2 id="contributing">Contributing</h2>
-<p>Feel free to submit issues or pull requests for improvements.</p>
 
-<h2 id="license">License</h2>
-<p>This project is licensed under the MIT License.</p>
