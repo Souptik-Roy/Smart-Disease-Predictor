@@ -6,7 +6,7 @@ Predict diseases from patient symptoms using machine learning for accurate and q
 <h2>Table of Contents</h2>
 <ul>
   <li><a href="#overview">Overview</a></li>
-  <li><a href="#features">Features</a></li>
+  <li><a href="#features">Features</a></li> 
   <li><a href="#tech-stack">Tech Stack</a></li>
   <li><a href="#installation">Installation</a></li>
   <li><a href="#usage">Usage</a></li>
